@@ -244,10 +244,10 @@ ProbablyEngine.rotation.register_custom(261, "Powder", {
  
 }, 
 function ()
-ProbablyEngine.toggle.create('hem', 'Interface\\Icons\\spell_shadow_lifedrain', 'Toggle Hemorrhage', 'Enables use of Hemmorhage if we cannot do anything else.', '')
-ProbablyEngine.toggle.create('as', 'Interface\\Icons\\ability_rogue_kidneyshot', 'Togle Additional Silences', 'Enables use of Alternate Silences.', '')
-ProbablyEngine.toggle.create('sap', 'Interface\\Icons\\ability_rogue_blackjack', 'Toggle Sap', 'Enables use of Sap while stealthed.', '')
-ProbablyEngine.toggle.create('buff', 'Interface\\Icons\\ability_rogue_slicedice', 'Toggle Custom Buffing', 'Enables use of various buffs.', '')
-ProbablyEngine.toggle.create('rup', 'Interface\\Icons\\ability_rogue_rupture', 'Toggle Rupture', 'Enables use of Rupture', '')
+-- ProbablyEngine.toggle.create('hem', 'Interface\\Icons\\spell_shadow_lifedrain', 'Toggle Hemorrhage', 'Enables use of Hemmorhage if we cannot do anything else.', '')
+-- ProbablyEngine.toggle.create('as', 'Interface\\Icons\\ability_rogue_kidneyshot', 'Togle Additional Silences', 'Enables use of Alternate Silences.', '')
+-- ProbablyEngine.toggle.create('sap', 'Interface\\Icons\\ability_rogue_blackjack', 'Toggle Sap', 'Enables use of Sap while stealthed.', '')
+-- ProbablyEngine.toggle.create('buff', 'Interface\\Icons\\ability_rogue_slicedice', 'Toggle Custom Buffing', 'Enables use of various buffs.', '')
+-- ProbablyEngine.toggle.create('rup', 'Interface\\Icons\\ability_rogue_rupture', 'Toggle Rupture', 'Enables use of Rupture', '')
 ProbablyEngine.toggle.create('burst', 'Interface\\Icons\\ability_warrior_decisivestrike', 'Burst Button', 'Get Fucked')
 end)
